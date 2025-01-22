@@ -10,7 +10,6 @@ context = gx.get_context()
 df = pd.read_csv(
     "./pharma_data.csv"
 )
-
 # Connect to data.
 # Create Data Source, Data Asset, Batch Definition, and Batch.
 data_source = context.data_sources.add_pandas("pandas")
