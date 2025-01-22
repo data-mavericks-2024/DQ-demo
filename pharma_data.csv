@@ -1,4 +1,5 @@
 drug_name,region,sales_amount,start_date,end_date
-Aspirin,South,0.0,1000,2024-05-15,2024-06-07
-Aspirin,East,500000,2023-04-29,2023-09-15
-
+Aspirin,South,20.44,2024-05-15,2024-06-07
+Aspirin,East,10,2023-04-29,2023-09-15
+Vicks,Midwest,20.44,2024-05-15,2024-06-07
+Aspirin,MidEast,10,2023-04-29,2023-09-15
